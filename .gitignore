@@ -1,0 +1,36 @@
+# Secrets / local config
+.env
+.env.local
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ML model binaries (download separately, see README)
+models/*.pb
+models/*.onnx
+
+# Captured images / logs
+images/
+*.log
+
+# Editor / tooling
+.vscode/
+.claude/
+.idea/
+
+# OS junk
+Thumbs.db
+.DS_Store

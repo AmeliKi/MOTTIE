@@ -1,0 +1,13 @@
+[Unit]
+Description=M.O.T.T.I.E.
+After=multi-user.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=3
+User=moth
+ExecStart=/home/moth/start_mottie.sh
+
+[Install]
+WantedBy=multi-user.target
