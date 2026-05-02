@@ -199,6 +199,7 @@ packages required by Neopixel and launches `main.py`.
 ├── images/              # captured photos (gitignored)
 └── rpi_ws281x/          # vendored Neopixel helpers
 ```
+![MOTTIE_Vortrag](docs/MOTTIE_Vortrag_Small.jpg)
 
 ## License
 
