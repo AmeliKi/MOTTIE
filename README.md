@@ -17,6 +17,9 @@ MOTTIE is a Raspberry Pi based field device that attracts moths with a UV
 panel, photographs them with an OAK-1 camera, classifies the species with an
 on-device ML model, and uploads the results to Azure (Data Lake + IoT Hub).
 
+
+![MOTTIE_2](docs/MOTTIE_2.jpg)
+
 ## Features
 
 - **OAK-1 (DepthAI) RGB camera** for high-resolution single-frame capture.
